@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://faluche-iut-flashcards.firebaseapp.com/sitemap.xml
